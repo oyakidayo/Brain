@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiniMax - twitter.CSharp", "MiniMax - twitter.CSharp.csproj", "{DB93DD75-0A16-DEED-1B5A-2295A2B0D336}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiniMax - twitter.CSharp.Editor", "MiniMax - twitter.CSharp.Editor.csproj", "{56839122-238E-F268-D85B-2D3947F28100}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB93DD75-0A16-DEED-1B5A-2295A2B0D336}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB93DD75-0A16-DEED-1B5A-2295A2B0D336}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB93DD75-0A16-DEED-1B5A-2295A2B0D336}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB93DD75-0A16-DEED-1B5A-2295A2B0D336}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56839122-238E-F268-D85B-2D3947F28100}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56839122-238E-F268-D85B-2D3947F28100}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56839122-238E-F268-D85B-2D3947F28100}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56839122-238E-F268-D85B-2D3947F28100}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
